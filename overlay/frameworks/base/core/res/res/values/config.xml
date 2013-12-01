@@ -152,10 +152,5 @@
             16 - App switch
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <!-- Temporarily comment out for 4.3 -->
-    <!-- <integer name="config_deviceHardwareKeys">7</integer> -->
-
-    <!-- Disable the home key unlock setting -->
-    <bool name="config_disableHomeUnlockSetting">false</bool>
-
+    <integer name="config_deviceHardwareKeys">7</integer>
 </resources>
