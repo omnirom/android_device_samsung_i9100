@@ -16,5 +16,11 @@
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "android-4.4"
+    },
+    {
+        "remote": "omnirom",
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "revision": "android-4.4"
     }
 ]
